@@ -17,7 +17,7 @@
   "bin": {
     "git-deletebranch-plugin": "./index.js"
   },
-  "author": "2516734343",
+  "author": "jmm_",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/2516734343/package/issues"
