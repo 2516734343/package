@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2516734343/git-deleteBranch-package.git"
+    "url": "git+https://github.com/2516734343/package.git"
   },
   "keywords": [
     "git",
@@ -20,9 +20,9 @@
   "author": "2516734343",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/2516734343/git-deleteBranch-package/issues"
+    "url": "https://github.com/2516734343/package/issues"
   },
-  "homepage": "https://github.com/2516734343/git-deleteBranch-package#readme",
+  "homepage": "https://github.com/2516734343/package#readme",
   "dependencies": {
     "chalk": "^4.1.1",
     "inquirer": "^8.1.0",
