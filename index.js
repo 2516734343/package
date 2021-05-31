@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const shell = require("shelljs");  // 执行文件操作
 
 const inquirer = require('inquirer');
